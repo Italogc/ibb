@@ -1,3 +1,7 @@
+#Supervised.zip:
+senha: 1111
+
+
 # ibb
 ibackupbot for supervised mode
 
