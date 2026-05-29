@@ -1,6 +1,10 @@
 #Supervised.zip:
 senha: 1111
 
+#Perfis de OTA Delay Oficiais:
+https://dhinakg.github.io/delayed-otas.html
+
+–--------------------------------------------------
 
 # ibb
 ibackupbot for supervised mode
